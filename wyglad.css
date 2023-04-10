@@ -9,7 +9,7 @@
     width: 15px;
     float: left;
     background: rgb(73, 1, 16);
-    min-height: 2400px;
+    min-height: 3800px;
     margin-right: 10px;
 }
 #wrapper {
@@ -19,6 +19,7 @@
     color: white;
 } 
 .zdj {
+    height: 200px;
     width: 100%;
     display: block;
 }
@@ -70,15 +71,10 @@ iframe {
 }
 footer {
     color: aliceblue;
-    height: 50px;
+    height: 75px;
     background-color: black;
     line-height: 40px;
     text-align: center;
     margin-top: 10px;
     text-decoration: none;
-}
-@media only screen and (max-width: 700px) {
-     footer { height: 75px; };
-     .zdj { height: 200px; };
-     .div_one { min-height: 3800px; }
 }
