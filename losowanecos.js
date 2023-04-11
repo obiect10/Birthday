@@ -91,3 +91,9 @@ if (x === 29) {
 if (x === 30) {
     document.write("Destynacja ważniejsza od życia? https://youtu.be/XeWYWU91imA");
 };
+if (x === 31) {
+    document.write("Put youeself into good mood");
+};
+if (x === 32) {
+    document.write("Papież nie tylko wiedział :o");
+};
